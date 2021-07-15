@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Archi's Academy](https://archisacademy.com/)
 
-- 🌱 I’m currently learning **Typescript, back-end, micro services, docker**
+- 🌱 I’m currently learning **Typescript, back-end, databse, micro services, docker**
 
 - 👨‍💻 All of my projects are available at [https://barisbabahan.com/](https://barisbabahan.com/)
 
