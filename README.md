@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm barisbabahan</h1>
+<h1 align="center">Hi 👋, I'm baris</h1>
 <h3 align="center">A passionate front-end developer from Cyprus. I'm a big fan of learning new things. have a good soft skills</h3>
 
 - 🔭 I’m currently working on [Archi's Academy](https://archisacademy.com/)
